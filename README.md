@@ -64,10 +64,6 @@ Keep reporting simple with these core metrics:
 - Python 3.x
 - scikit-learn (for the full pipeline)
 
-Install dependencies:
-```
-pip install scikit-learn
-```
 
 ## Usage
 1. Load and preprocess the dataset (handle missing values, encode categoricals).
